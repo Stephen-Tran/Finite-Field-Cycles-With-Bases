@@ -83,7 +83,7 @@ base_sequence = [(0, 0, 0, 1),
                (0, 0, 1, 0)
                ]
 sequences = []
-for basis in bases[19500:]:
+for basis in bases:
     sequence = []
     for i in base_sequence:
         new_entry = dotproduct(i, basis)
