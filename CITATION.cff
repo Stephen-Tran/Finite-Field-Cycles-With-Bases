@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Generating Finite Field Cycles Using Bases
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Stephen
+    family-names: Tran
+    email: stephentran3@cmail.carleton.ca
+    affiliation: Carleton University
+  - given-names: Qiang
+    family-names: Wang
+    email: wang@math.carleton.ca
+    affiliation: Carleton University
+repository-code: >-
+  https://github.com/Stephen-Tran/Finite-Field-Cycles-With-Bases
+license: MIT
